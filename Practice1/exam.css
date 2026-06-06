@@ -1,0 +1,80 @@
+.navbar a{
+  text-decoration:none;
+  color:white;
+}
+.navbar li{
+	display:inline;
+	margin-left:20px;
+	padding:20px;
+}
+
+.container{
+	display:flex;
+	justify-content:space-between;
+	padding:20px;
+}
+
+.logo h1{
+	color:orange;
+}
+
+.search button{
+	background-color:orange;
+}
+
+.search input{
+	background:transparent;
+	border:2px solid orange;
+}
+
+.second{
+	padding:60px;
+	display:flex;
+}
+.new{
+	color:orange;
+}
+
+.topic h1{
+	color:white;
+	font-size:50px;
+}
+
+.topic p{
+	color:white;
+}
+
+.topic button{
+	background-color:orange;
+	color:white;
+	border-radius:5px;
+}
+
+.form{
+	background-color:black;
+	margin-left:500px;
+}
+.form h2{
+	color:orange;
+	background-color:white;
+	text-align:center;
+}
+.form button{
+	color:white;
+	background-color:orange;
+	text-align:center;
+	width:150px;
+}
+.form input {
+	background:transparent;
+	border:3px solid orange;
+}
+
+.form a {
+	color:orange;
+}
+
+.form p{
+	color:white;
+	text-align:center;
+}
